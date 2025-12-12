@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+* { 
+  margin: 0; /* Remove todas as margens padrão */
+  padding: 0; /* Remove todo o espaçamento interno padrão */
+  box-sizing: border-box; /* Faz width/height incluírem padding e border */
+  list-style: none; /* Remove bolinhas e números das listas */
+  border: none; /* Remove bordas padrão, principalmente de inputs e buttons */
+  font-family: 'Press Start 2P', cursive; /* Define a fonte padrão para tudo */
+}
